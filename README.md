@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mini-shp
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Vuex-example
+>>>>>>> f1f863fc8b2ac9df84d2623ad6b8ded3bb665163
