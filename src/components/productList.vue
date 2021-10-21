@@ -61,7 +61,7 @@ export default {
         this.$store.commit('productSelected', product)
       }
     }*/
-
+//uso de mapActions para enlazar acciones de la store
     methods:{
       ...mapActions({
         addToCart: "addProductToCart"
